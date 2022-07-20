@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 from model.rubrica import *
 
 contatti = rubrica()

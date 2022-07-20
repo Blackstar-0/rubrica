@@ -1,6 +1,6 @@
 class rubrica:
     def __init__(self):
-        self.contatto=[]
+        self.contatto=[] #list
 
     def aggiungereContatto(self, nome, cognome, telefono):
         new_contatto = Contatto(nome, cognome, telefono)
